@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.App{
+    min-height: 100vh;
+    /* min-height: Sets the minimum height of an element (it can grow larger if the content needs more space). */
+    /* vh stands for viewport height. 100vh = 100% of the height of the visible browser window.*/
+    display : flex;
+    background-image: url("./background_image.png");
+    background-size: cover;
+    background-position: center;
+    font-family: Work Sans;
+    font-size: x-large;
+}
+
+.btn-hover-highlight:hover{
+     background-color: #6c757d; /* or a lighter/darker shade */
+     transition: 0.2s;
+}
+
+@media (max-width: 768px) {
+  .custom-w-100 {
+    width: 100% !important;
+  }
+}
+/* by default bootstrap me widths ko set karne ke liye breakpoints nhi hai  */
+@media (min-width: 768px) {
+  .custom-w-md-66 {
+    width: 66% !important;
+  }
+}
+
+@media(min-width : 768px){
+  .custom-mssg-w{
+    width : 75% !important
+  }
+}
+
+@media(max-width : 768px){
+  .custom-mssg-w{
+    width : 100% !important
+  }
+}
+/* .dropdown-menu {
+  z-index: 9999 !important;
+  display: block !important;
+} */
