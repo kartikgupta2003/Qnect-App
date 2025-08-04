@@ -9,16 +9,19 @@ JWT Authentication – Secure login and registration for users
 
 
 Real-time Messaging – Powered by WebSockets for instant message delivery
-<img width="1912" height="941" alt="Screenshot (1422)" src="https://github.com/user-attachments/assets/5b992cd0-bfa9-4c0a-9823-8718bee4c628" />
+<img width="1899" height="934" alt="Screenshot (1424)" src="https://github.com/user-attachments/assets/3a6592be-cb07-49e4-bb64-7bbc0501db30" />
+
 
 
 
 Live Notifications – Users get notified immediately upon new messages or group activity
-<img width="1912" height="941" alt="Screenshot (1422)" src="https://github.com/user-attachments/assets/0097b95c-ee4d-443e-822e-a9a9aa5d7207" />
+<img width="1902" height="947" alt="Screenshot (1423)" src="https://github.com/user-attachments/assets/a072b345-b401-41fc-ae0c-c91bfc65fc73" />
+
 
 
 Group Chats – Users can create groups; only admins have the power to remove members
-<img width="1912" height="941" alt="Screenshot (1422)" src="https://github.com/user-attachments/assets/4ad01f96-0a9a-4395-91a9-48725c114610" />
+<img width="1918" height="945" alt="Screenshot (1425)" src="https://github.com/user-attachments/assets/d8c710c7-a695-4565-81fc-62ad9f7ce73f" />
+
 
 
 User Search – Easily find and start chats with registered users
