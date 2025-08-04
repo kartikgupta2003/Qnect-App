@@ -28,6 +28,8 @@ User Search – Easily find and start chats with registered users
 
 Cloudinary Integration – Seamless profile image upload and storage
 
+Responsive Design – Optimized for both desktop and mobile devices
+
 Tech Stack:
 
 Frontend: React.js
